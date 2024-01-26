@@ -1,1 +1,1 @@
-# CMU_GitHub
+# CMU GitHub Workshop
